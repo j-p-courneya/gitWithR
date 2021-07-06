@@ -7,3 +7,7 @@ you can write stuff here for the readme on your github repo page.
 
 link to cdabs: [CDABS](https://www2.hshsl.umaryland.edu/cdabs/ "Center for Data and Bioinformation Services
 ")
+
+### A smaller section
+
+writing from Rstudio
